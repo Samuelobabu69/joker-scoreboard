@@ -10,3 +10,7 @@ This app provides a simple and intuitive way to keep track of scores of the Rumm
 
 Coming soon:
 - Session sharing
+
+# Change Log
+## v1.0.0
+Initial commit
