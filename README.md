@@ -14,7 +14,10 @@ Coming soon:
 Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboard_update/).
 
 # Change Log
-## v1.1.0 (Latest)
+## v1.1.1 (Latest)
+- Fixed a bug where the check-for-update function read an old version number saved in disk cache
+
+## v1.1.0
 - Sessions can now be opened by double-tapping them
 - User can now check for updates in the settings
 
