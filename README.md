@@ -14,5 +14,9 @@ Coming soon:
 Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboard_update/).
 
 # Change Log
+## v1.1.0 (Latest)
+- Sessions can now be opened by double-tapping them
+- User can now check for updates in the settings
+
 ## v1.0.0
-Initial commit
+- Initial commit
