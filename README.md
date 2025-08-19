@@ -8,9 +8,6 @@ This app provides a simple and intuitive way to keep track of scores of the Rumm
 - Custom score settings
 - Simple leaderboards and statistics for each session
 
-Coming soon:
-- Session sharing
-
 Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboard_update/).
 
 # Change Log
