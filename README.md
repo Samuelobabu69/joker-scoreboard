@@ -14,7 +14,7 @@ Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboa
 ## v1.2.0 (Latest)
 - Added a new "Previous round" button, that allows users to remove or edit the last saved round
 - Better indication of when you can or cannot press certain buttons, example is the "Next round" button
-- Updated the Download/Update website, with translations available in English, Slovak and Czech
+- Updated the Download/Update website, with translations available in English, Slovak and Czech (also the url has been updated, meaning for this update, users will be still redirected to the old website. Starting from next update, the website will show up correctly.)
 - Fixed a back-end problem where large amount of translation requests were generated when switching screens
 - Fixed a problem where trying to check for updates while offline didn't show an error screen nor show any info
 
