@@ -11,7 +11,10 @@ This app provides a simple and intuitive way to keep track of scores of the Rumm
 Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboard/).
 
 # Change Log
-## v1.2.0 (Latest)
+## v1.3.0 (Latest)
+- Users can now download beta versions of the app from the settings (however it's mainly intended for the developer for easier development)
+
+## v1.2.0
 - Added a new "Previous round" button, that allows users to remove or edit the last saved round
 - Better indication of when you can or cannot press certain buttons, example is the "Next round" button
 - Updated the Download/Update website, with translations available in English, Slovak and Czech (also the url has been updated, meaning for this update, users will be still redirected to the old website. Starting from next update, the website will show up correctly.)
@@ -23,7 +26,7 @@ Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboa
 
 ## v1.1.0
 - Sessions can now be opened by double-tapping them
-- User can now check for updates in the settings
+- Users can now check for updates in the settings
 
 ## v1.0.0
 - Initial commit
