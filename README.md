@@ -11,6 +11,9 @@ This app provides a simple and intuitive way to keep track of scores of the Rumm
 Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboard/).
 
 # Change Log
+
+**Note**: Changes made in beta versions are not and will not be listed.
+
 ## v1.3.0 (Latest)
 - Users can now download beta versions of the app from the settings (however it's mainly intended for the developer for easier development)
 
