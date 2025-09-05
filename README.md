@@ -14,7 +14,13 @@ Download or update the app [here](https://samuelobabu69.github.io/joker_scoreboa
 
 **Note**: Changes made in beta versions are not and will not be listed.
 
-## v1.4.0 (Latest)
+## v1.5.0 (Latest) (PLEASE READ BEFORE UPDATING)
+- The whole score system is remade. Before updating, screenshot your old scores and add them after the update. Your old scores WILL CORRUPT.
+- Removed the "Edit last round", as players can now edit the scores directly
+- Added a "Settings" button into the session view. Users can now change the order of players, add new players as well as edit the session name, score per card, etc.
+- Each session in the session list now shows the top three players with their scores
+
+## v1.4.0
 - The update system has been refined. Users can now update the app directly from the app, no website needed
 
 ## v1.3.0
